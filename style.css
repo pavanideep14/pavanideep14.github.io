@@ -2410,7 +2410,7 @@ footer p {
     }
 
 }
-
+    @media (max-width: 600px) {
     /* Mobile navigation: keep all links in one row */
     .header-nav {
         padding: 0 4px;
@@ -2456,3 +2456,4 @@ footer p {
         white-space: normal;
         overflow-wrap: anywhere;
     }
+}
